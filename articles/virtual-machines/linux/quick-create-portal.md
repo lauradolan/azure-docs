@@ -6,12 +6,14 @@ ms.service: virtual-machines
 ms.collection: linux
 ms.topic: quickstart
 ms.workload: infrastructure
-ms.date: 12/13/2021
+ms.date: 04/01/2022
 ms.author: cynthn
 ms.custom: mvc, mode-ui
 ---
 
 # Quickstart: Create a Linux virtual machine in the Azure portal
+
+Here are some example changes
 
 **Applies to:** :heavy_check_mark: Linux VMs
 
